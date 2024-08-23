@@ -9,4 +9,5 @@ enum InvoiceType: string
     case TIMOLOGIO_PISTOTIKO_SYS = '5.1';
     case APODIKSI_LIANIKIS_POLISIS = '11.1';
     case APODIKSI_YPERESION = '11.2';
+    case PISTOTIKO_STIXIO_LIANIKIS = '11.4';
 }
